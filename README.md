@@ -27,7 +27,7 @@ https://www.clevo.com.tw/clevo_down.asp?lang=tw
 
 ## 神舟官方驱动下载
 
-http://www.hasee.com/after/drive/42
+http://archive.hasee.com/Chinese/drivers/drivers/index.php/Download/Index/model.html?id=947
 
 
 ## 蓝天BIOS下载
@@ -49,11 +49,7 @@ AV1 Video Extension https://www.microsoft.com/store/productId/9MVZQVXJBQ9V
 
 HEVC Video Extensions from Device Manufacturer https://www.microsoft.com/store/productId/9N4WGH0Z6VHQ
 
-Sound Blaster Cinema 6+ https://www.microsoft.com/store/productId/9P9M0DC5MLNX
 
-Realtek Audio Control https://www.microsoft.com/store/productId/9P2B8MCSVPLN
-
-后两个需要安装神舟官方驱动, 系统自带驱动后Realtek面板打开时卡顿, Blaster软件识别不到设备
 
 
 
