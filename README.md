@@ -28,7 +28,7 @@ http://www.hasee.com/after/drive/42
 
 ## 蓝天BIOS下载
 
-[[http://repo.palkeo.com/clevo-mirror/W650KKKJ/](https://repo.palkeo.com/clevo-mirror/W65xKK1KJ1/)
+[http://repo.palkeo.com/clevo-mirror/W650KKKJ/](https://repo.palkeo.com/clevo-mirror/W65xKK1KJ1/)
 (镜像站，账号密码都是repo)
 
 
