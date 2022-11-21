@@ -7,11 +7,15 @@
 
 2. BIOS Logo修改工具
 
-3. 官方支持8\9代CPU的BIOS
+3. 神舟官方支持8\9代CPU的BIOS
 
-4. 通过修改机器名称，支持华为互联的BIOS文件
+4. Danske解锁全功能BIOS
 
-5. 用于安装黑苹果的Clover\OC引导文件
+5. 通过修改机器名称，支持华为互联的BIOS文件
+
+6. 通过修改机器名称，免费支持OBSDIAN控制软件的BIOS文件
+
+7. 用于安装黑苹果的Clover\OC引导文件
 
 
 
